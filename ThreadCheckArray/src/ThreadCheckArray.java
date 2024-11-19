@@ -11,7 +11,7 @@ public class ThreadCheckArray implements Runnable {
     private boolean[] winArray;
     private SharedData sd;
     private ArrayList<Integer> array;
-    private int b;
+     private int b;
 
     /**
      * Constructs a ThreadCheckArray with shared data.
